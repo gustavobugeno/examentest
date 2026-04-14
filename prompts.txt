@@ -1,1 +1,12 @@
-"" 
+Prompt: "Genera la estructura básica de un sitio web en HTML para un torneo gamer"
+Propósito: Crear la primera versión del sitio
+
+
+Prompt: "Genera estilos CSS atractivos con colores gamer y jerarquía visual"
+Propósito: Mejorar la apariencia visual del sitio
+
+Prompt: "Agrega secciones de beneficios, actividades, FAQ y contacto en un sitio gamer"
+Propósito: Incorporar contenido relevante para motivar la participación
+
+Prompt: "Agrega reglas CSS responsive para que el sitio gamer se vea bien en móviles"
+Propósito: Adaptar el diseño a pantallas pequeñas

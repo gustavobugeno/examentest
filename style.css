@@ -58,3 +58,77 @@ footer {
     margin-top: 40px;
     border-top: 3px solid #e74c3c;
 }
+
+@media (max-width: 768px) {
+    body {
+        font-size: 16px;
+        padding: 10px;
+    }
+
+    header {
+        padding: 20px;
+    }
+
+    header h1 {
+        font-size: 1.8em;
+    }
+
+    section {
+        padding: 20px;
+    }
+
+    section h2 {
+        font-size: 1.4em;
+    }
+
+    footer {
+        padding: 15px;
+        font-size: 0.9em;
+    }
+}
+
+@media (max-width: 480px) {
+    header h1 {
+        font-size: 1.5em;
+    }
+
+    header p {
+        font-size: 1em;
+    }
+
+    section p, section ul {
+        font-size: 0.95em;
+    }
+}
+
+form {
+    background-color: #222;
+    padding: 20px;
+    border-radius: 8px;
+    max-width: 400px;
+    margin: auto;
+}
+
+form label {
+    color: #f4f4f4;
+    font-weight: bold;
+}
+
+form input, form select, form button {
+    width: 100%;
+    padding: 10px;
+    margin-top: 8px;
+    border: none;
+    border-radius: 5px;
+}
+
+form button {
+    background-color: #e74c3c;
+    color: #fff;
+    font-size: 1em;
+    cursor: pointer;
+}
+
+form button:hover {
+    background-color: #c0392b;
+}
